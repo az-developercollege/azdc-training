@@ -1,1 +1,0 @@
-# azdc-training
